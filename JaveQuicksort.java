@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 // Sorting example for facebook group
-public class WhoElse {
+public class JavaQuicksort {
 
 	public static void main(String[] args) {
 		String message = "Who else is doing CS220 and CS230?  This is an"
