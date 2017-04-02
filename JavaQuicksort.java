@@ -6,7 +6,7 @@ public class JavaQuicksort {
 
 	public static void main(String[] args) {
 		String message = "Who else is doing CS220 and CS230?  This is an"
-				+ "example of a java implementation of Quicksort, using"
+				+ " example of a java implementation of Quicksort, using"
 				+ " composite classes";
 		PairList pl = new PairList();
 		PairList randList = new PairList();
